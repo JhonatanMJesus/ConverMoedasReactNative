@@ -49,7 +49,7 @@ git clone https://github.com/JhonatanMJesus/ConverMoedasReactNative.git
 
 2. Acesse a pasta do projeto:
 ```bash
-cd conversor-app
+cd ConverMoedasReactNative
 ```
 
 3. Instale as dependências:
